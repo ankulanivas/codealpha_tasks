@@ -1,0 +1,4 @@
+Stock Name : GOOGLE
+Quantity : 5
+Price : 150$
+Total_investment : 750$
