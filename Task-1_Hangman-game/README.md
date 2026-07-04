@@ -61,6 +61,18 @@ Guess one letter at a time until you either guess the complete word or lose all 
 
 ---
 
+✨ User Experience
+
+To make the console output more readable and user-friendly, the game uses simple visual symbols:
+
+✅ Indicates a correct guess.
+❌ Indicates an incorrect guess.
+🎉 Indicates the player has successfully guessed the word.
+💀 Indicates the game is over after all lives are exhausted.
+
+These symbols improve readability and make the console-based gameplay more engaging.
+
+
 ## 🎯 Internship Task
 
 Task 1 – Hangman Game
@@ -72,3 +84,5 @@ Task 1 – Hangman Game
 **Nivas**
 
 Python Programming Intern @ CodeAlpha
+
+
