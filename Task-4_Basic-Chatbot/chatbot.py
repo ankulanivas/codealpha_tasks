@@ -1,7 +1,7 @@
 print("Welcome back,sir")
 while True:
     user = input("You: ").strip().lower()       #user=input("Enter Your Message : ")
-    if(user=="hello"):
+    if(user=="hello" ):
         print("bot: Hi")
     elif(user=="how are you"):
         print("bot: I am fine,thanks!")

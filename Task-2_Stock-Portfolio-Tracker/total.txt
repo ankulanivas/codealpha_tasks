@@ -1,4 +1,4 @@
-Stock Name : GOOGLE
+Stock Name : AAPL
 Quantity : 5
-Price : 150$
-Total_investment : 750$
+Price : 180$
+Total_investment : 900$

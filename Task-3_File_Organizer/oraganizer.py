@@ -1,8 +1,8 @@
 import os
 import shutil
 
-source_folder="test_folder2"
-destination_folder="test_folder1"
+source_folder="test_folder1"
+destination_folder="test_folder2"
 
 if os.path.exists(destination_folder):
     print("The Destination folder is already exists")
@@ -22,6 +22,6 @@ for file in files:
         shutil.move(source_path,destination_path) 
         count+=1
 
-    print(f"{file} moved succesfully!")   
+        print(f"{file} moved succesfully!")   
 
 print(f"Task Completed,Total files moved {count} out of {len(files)}")
