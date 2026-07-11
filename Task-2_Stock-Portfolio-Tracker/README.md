@@ -1,4 +1,4 @@
-# 📈 Stock Portfolio Tracker | CodeAlpha Python Internship
+# 📈 Stock Portfolio Tracker | Python Programming
 
 ## 📌 Project Overview
 
@@ -6,7 +6,7 @@ This project calculates the total investment value of a stock portfolio using pr
 
 The result is displayed on the console and also saved to a text file.
 
-Developed as part of the **CodeAlpha Python Programming Internship**.
+Developed as part of the **Python Programming Learning**.
 
 ---
 
@@ -39,7 +39,7 @@ Developed as part of the **CodeAlpha Python Programming Internship**.
 ## 📂 Project Structure
 
 ```
-CodeAlpha_StockPortfolioTracker/
+StockPortfolioTracker/
 │── portfolio.py
 │── total.txt
 │── README.md
@@ -61,7 +61,6 @@ The total investment value will be displayed and saved in `total.txt`.
 
 ---
 
-## 🎯 Internship Task
 
 Task 2 – Stock Portfolio Tracker
 
@@ -71,4 +70,4 @@ Task 2 – Stock Portfolio Tracker
 
 **Nivas**
 
-Python Programming Intern @ CodeAlpha
+Python Programming 

@@ -1,10 +1,10 @@
-# 🎮 Hangman Game | CodeAlpha Python Internship
+# 🎮 Hangman Game |Python Programming
 
 ## 📌 Project Overview
 
 This is a text-based Hangman game developed using Python. The computer randomly selects a word, and the player must guess it one letter at a time before running out of lives.
 
-This project was created as part of the **CodeAlpha Python Programming Internship**.
+This project was created as part of  ** Python Programming learning **.
 
 ---
 
@@ -42,7 +42,7 @@ This project was created as part of the **CodeAlpha Python Programming Internshi
 ## 📂 Project Structure
 
 ```
-CodeAlpha_HangmanGame/
+Task-1_HangmanGame/
 │── hangman.py
 │── README.md
 ```
@@ -73,7 +73,7 @@ To make the console output more readable and user-friendly, the game uses simple
 These symbols improve readability and make the console-based gameplay more engaging.
 
 
-## 🎯 Internship Task
+
 
 Task 1 – Hangman Game
 
@@ -83,6 +83,6 @@ Task 1 – Hangman Game
 
 **Nivas**
 
-Python Programming Intern @ CodeAlpha
+Python Programming 
 
 

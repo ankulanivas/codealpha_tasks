@@ -1,8 +1,8 @@
-# 🤖 Basic Chatbot | CodeAlpha Python Internship
+# 🤖 Basic Chatbot | Python tasks
 
 ## 📌 Project Overview
 
-This is a simple rule-based chatbot developed using Python as part of the **CodeAlpha Python Programming Internship**.
+This is a simple rule-based chatbot developed using Python as part of the **Python programming Learning**.
 
 The chatbot interacts with users by responding to predefined messages. It continuously accepts user input until the user types **"bye"** to exit.
 
@@ -67,9 +67,9 @@ Basic-Chatbot/
 
 ---
 
-## 🎯 Internship Task
+## 🎯  Task
 
-This project was developed as **Task 4 – Basic Chatbot** for the **CodeAlpha Python Programming Internship**.
+This project was developed as **Task 4 – Basic Chatbot** .
 
 ---
 
@@ -77,4 +77,4 @@ This project was developed as **Task 4 – Basic Chatbot** for the **CodeAlpha P
 
 **Nivas**
 
-Python Programming Intern @ CodeAlpha
+Python Programming 

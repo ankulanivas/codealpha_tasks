@@ -1,10 +1,10 @@
-# 📁 File Organizer | CodeAlpha Python Internship
+# 📁 File Organizer | Python Programming
 
 ## 📌 Project Overview
 
 This project automates file organization using Python. It scans a source folder, identifies image files (`.jpg`), and moves them into a destination folder automatically.
 
-This project was developed as part of the **CodeAlpha Python Programming Internship**.
+
 
 ---
 
@@ -40,7 +40,7 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 ## 📂 Project Structure
 
 ```
-CodeAlpha_FileOrganizer/
+Task-3_FileOrganizer/
 │── organizer.py
 │── README.md
 │── source_folder/
@@ -62,7 +62,6 @@ python organizer.py
 
 ---
 
-## 🎯 Internship Task
 
 Task 3 – Task Automation with Python Scripts
 
@@ -72,4 +71,4 @@ Task 3 – Task Automation with Python Scripts
 
 **Nivas**
 
-Python Programming Intern @ CodeAlpha
+Python Programming 

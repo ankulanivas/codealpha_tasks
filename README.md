@@ -1,8 +1,8 @@
-# 🚀 CodeAlpha Python Programming Internship Tasks
+# 🚀 Python Programming  Tasks
 
-Welcome to my **CodeAlpha Python Programming Internship** repository.
+Welcome to my **Python Programming  Tasks** repository.
 
-This repository contains all the tasks completed during my internship. Each project demonstrates different Python programming concepts, including file handling, dictionaries, loops, conditional statements, automation, and game development.
+This repository contains all the tasks completed during my python learning journey. Each project demonstrates different Python programming concepts, including file handling, dictionaries, loops, conditional statements, automation, and game development.
 
 ## 📂 Projects
 
@@ -71,4 +71,4 @@ A simple rule-based chatbot that responds to predefined user inputs.
 
 **Nivas**
 
-Python Programming Intern @ CodeAlpha
+Python Programming 
